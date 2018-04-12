@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentTabs</string>
+    <string name="add_tab">ADD TAB</string>
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="create_tabs">CREATE TABS</string>
+    <string name="name">Name:</string>
+    <string name="biography">Biography:</string>
+</resources>
