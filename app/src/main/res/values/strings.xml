@@ -5,4 +5,13 @@
     <string name="create_tabs">CREATE TABS</string>
     <string name="name">Name:</string>
     <string name="biography">Biography:</string>
+    <string name="namekey">name</string>
+    <string name="biokey">bio</string>
+    <string name="all_fields_must_be_filled">All Fields Must Be Filled!</string>
+    <string name="you_can_only_have_three_logs">You Have Reach The Max of 3!</string>
+    <string name="next">Next</string>
+    <string name="previous">previous</string>
+    <string name="please_add_a_bio_and_name">Please Add a Bio and Name!</string>
+    <string name="name_cannot_be_empty">Name Cannot Be Empty</string>
+    <string name="bio_cannot_be_empty">Bio Cannot be Empty!</string>
 </resources>

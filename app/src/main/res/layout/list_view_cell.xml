@@ -8,14 +8,12 @@
         android:id="@+id/cell_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="@string/name"
         android:padding="10dp"
         android:textSize="15sp"/>
     <TextView
         android:id="@+id/bio_cell_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="@string/app_name"
         android:padding="10dp"/>
 
 </LinearLayout>

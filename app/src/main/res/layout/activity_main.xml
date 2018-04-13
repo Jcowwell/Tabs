@@ -10,7 +10,8 @@
         android:id="@+id/list_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@id/mother_container"/>
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/mother_container" />
 
     <LinearLayout
         android:id="@+id/mother_container"
